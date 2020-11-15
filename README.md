@@ -1,5 +1,8 @@
 # my-vending-machine
 
+![alt text](https://github.com/abymanyubagarela/vending-machine/blob/master/assets/screenshot.jpg)
+
+
 ## Project setup
 ```
 npm install
